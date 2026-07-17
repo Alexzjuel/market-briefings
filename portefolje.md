@@ -1,7 +1,7 @@
 # Portefølje
 
-Senest opdateret: 2026-07-05
-Samlet værdi: ca. 499.000 DKK
+Senest opdateret: 2026-07-17
+Samlet værdi: ca. 499.000 DKK (heraf ca. 16.000 DKK kontant efter delvist Novo-salg 17/7, afventer reinvestering)
 Vigtigt: Opdater denne fil ved køb/salg. Den er den autoritative kilde for markedsbriefingerne.
 
 ## Reel samlet eksponering (på tværs af alle platforme, inkl. collections)
@@ -12,7 +12,7 @@ Vigtigt: Opdater denne fil ved køb/salg. Den er den autoritative kilde for mark
 | NVDA (Nvidia) | 54.700 | 11,0% |
 | PLTR (Palantir) | 48.900 | 9,8% |
 | META | 34.200 | 6,9% |
-| Novo Nordisk B | 31.700 | 6,4% |
+| Novo Nordisk B | 15.700 | 3,1% |
 | GOOGL (Alphabet) | 28.500 | 5,7% |
 | AMZN (Amazon) | 18.600 | 3,7% |
 | NBIS (Nebius) | 16.900 | 3,4% |
